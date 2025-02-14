@@ -1,4 +1,4 @@
-## Quantum Probability Feature Selection (QPFS) on the Iris Dataset
+## Quadratic Programming Feature Selection (QPFS) on the Iris Dataset
 
 This project demonstrates **Quantum Probability Feature Selection (QPFS)** applied to the **Iris dataset**, implemented in a **Jupyter Notebook**. The primary goal of this project is to explore **Quadratic Programming (QP)** concepts and their application in feature selection using quantum-inspired optimization.
 
